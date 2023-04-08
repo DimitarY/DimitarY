@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DimitarY
-- 👀 I’m interested in C/C++, C# and Python
+- 👀 I’m interested in C/C++, C#, PHP, Python, Bash and SQL
 - 🌱 I’m currently learning WPF on C# .Net Core
 - 💞️ Currently i'm not looking to collaborate
 <!---- 💞️ I’m looking to collaborate
